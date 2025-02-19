@@ -15,7 +15,7 @@ You can either install the [Marp CLI](https://github.com/marp-team/marp-cli) or 
 
 ### Marp CLI
 ```
-marp --html --pdf transparencias.md
+marp --html --pdf presentation.md
 ```
 
 ### NPM
